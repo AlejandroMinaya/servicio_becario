@@ -1,4 +1,4 @@
-# Bienvenidos a Análisis de Algoritmos
+# Big O Notation
 Para esta clase haremos....
 
 ```c
